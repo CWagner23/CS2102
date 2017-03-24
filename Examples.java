@@ -82,4 +82,10 @@ public class Examples {
 	public void checkDillo(){
 		assertFalse(babyDillo.isDangerToPeople());
 	}
+	
+	@Test
+	public void checkDillo2(){
+		assertFalse(babyDillo.isDangerToPeople());
+	}
+	
 }
